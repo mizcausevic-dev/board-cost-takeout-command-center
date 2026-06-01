@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-06-01T03:53:25.498Z",
+  "items": [
+    {
+      "id": "procurement-consolidate-answer-packs",
+      "owner": "Procurement operations lead",
+      "audience": "Operating committee",
+      "track": "PROCUREMENT_TRUST",
+      "action": "CONSOLIDATE",
+      "spendCategory": "Duplicated procurement packaging",
+      "takeoutTheme": "Collapse wrapper duplication first",
+      "boardQuestion": "Where can we remove duplicate packaging without weakening buyer trust?",
+      "currentPosture": "Procurement proof is strong, but multiple wrappers still duplicate the same answer-pack and evidence-room motions.",
+      "recommendedMove": "Consolidate overlapping procurement wrappers and keep one reusable trust core.",
+      "savingsRealizationScore": 93,
+      "executionComplexityScore": 34,
+      "continuityRiskScore": 28,
+      "ownerClarityScore": 91,
+      "boardDefensibilityScore": 88,
+      "urgencyScore": 80,
+      "annualSavingsMillions": 5.6,
+      "headline": "Procurement is the cleanest takeout lane because duplication is visible and the trust story survives consolidation.",
+      "narrative": "Leadership can realize savings quickly by collapsing duplicate procurement packaging while protecting the reusable answer and evidence core.",
+      "nextMove": "Assign procurement ops to retire duplicate wrappers and preserve one trust-ready answer stack.",
+      "companyTags": [
+        "Procurement",
+        "Questionnaires",
+        "RFP",
+        "Trust center"
+      ],
+      "relatedSurfaces": [
+        "procurement.kineticgain.com",
+        "questionnaire.kineticgain.com",
+        "trust.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Procurement Ready OS",
+        "Security Questionnaire Answer Studio",
+        "Trust Center Evidence Room"
+      ]
+    },
+    {
+      "id": "identity-protect-control-spine",
+      "owner": "Identity assurance sponsor",
+      "audience": "Risk committee",
+      "track": "IDENTITY_SECURITY",
+      "action": "PROTECT",
+      "spendCategory": "Identity control spine",
+      "takeoutTheme": "Do not cut the control core",
+      "boardQuestion": "Which lane must stay protected because cuts would multiply exposure elsewhere?",
+      "currentPosture": "Identity proof underwrites access review, entitlement posture, and remediation continuity across multiple admin surfaces.",
+      "recommendedMove": "Protect the identity control spine and limit takeout to non-core presentation shell work.",
+      "savingsRealizationScore": 24,
+      "executionComplexityScore": 61,
+      "continuityRiskScore": 91,
+      "ownerClarityScore": 89,
+      "boardDefensibilityScore": 94,
+      "urgencyScore": 69,
+      "annualSavingsMillions": 1.4,
+      "headline": "Identity should be protected because cutting the spine would degrade trust across multiple exposure narratives.",
+      "narrative": "The board does not benefit from savings harvested out of the lane that keeps access, posture, and remediation proof coherent.",
+      "nextMove": "Ring-fence identity core systems and move any savings request to peripheral shell work only.",
+      "companyTags": [
+        "CyberArk",
+        "Entra",
+        "Intune",
+        "Okta"
+      ],
+      "relatedSurfaces": [
+        "guest.kineticgain.com",
+        "identity.kineticgain.com",
+        "protect.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Access review evidence",
+        "Identity Risk Evidence Ledger",
+        "Intune posture proof"
+      ]
+    },
+    {
+      "id": "revenue-cut-low-yield-reporting",
+      "owner": "Revenue systems partner",
+      "audience": "CFO operating review",
+      "track": "REVENUE_SYSTEMS",
+      "action": "CUT",
+      "spendCategory": "Low-yield reporting and experiment backlog",
+      "takeoutTheme": "Cut low-signal backlog before the core",
+      "boardQuestion": "Which revenue work can be cut because it burns spend faster than it improves margin or board narrative?",
+      "currentPosture": "The revenue recovery core is strong, but the low-yield experiment and reporting tail still consumes attention and budget.",
+      "recommendedMove": "Cut low-yield reporting backlog and protect only the margin-leak and core experimentation surfaces.",
+      "savingsRealizationScore": 79,
+      "executionComplexityScore": 48,
+      "continuityRiskScore": 46,
+      "ownerClarityScore": 84,
+      "boardDefensibilityScore": 82,
+      "urgencyScore": 77,
+      "annualSavingsMillions": 4.8,
+      "headline": "Revenue offers immediate takeout if low-yield backlog is cut while the margin core stays intact.",
+      "narrative": "The CFO-safe path is to cut peripheral reporting and experiment noise, not starve the recovery engine that still has measurable yield.",
+      "nextMove": "Have revenue ops cut low-yield backlog and preserve only the margin recovery core.",
+      "companyTags": [
+        "Klaviyo",
+        "Power BI",
+        "Tableau",
+        "VWO"
+      ],
+      "relatedSurfaces": [
+        "leak.kineticgain.com",
+        "martech.kineticgain.com",
+        "revenue.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Platform Margin Leak Report",
+        "Portfolio Benchmark Waterfall",
+        "Revenue Infrastructure Scorecard"
+      ]
+    },
+    {
+      "id": "fintech-hold-fragile-suite",
+      "owner": "FinTech diligence lead",
+      "audience": "Investor diligence committee",
+      "track": "FINTECH",
+      "action": "HOLD",
+      "spendCategory": "Adjacent FinTech expansion suite",
+      "takeoutTheme": "Hold where fragility is still too high",
+      "boardQuestion": "Where should leadership hold the line because both takeout and further investment would be hard to defend?",
+      "currentPosture": "Payments, treasury, merchant review, and KYC are live, but proof quality still clusters with execution fragility.",
+      "recommendedMove": "Hold the FinTech lane flat until the evidence is easier to defend and execution blockers are lower.",
+      "savingsRealizationScore": 41,
+      "executionComplexityScore": 86,
+      "continuityRiskScore": 64,
+      "ownerClarityScore": 57,
+      "boardDefensibilityScore": 62,
+      "urgencyScore": 74,
+      "annualSavingsMillions": 2.3,
+      "headline": "FinTech is a hold lane because fragile proof and complex execution make clean takeout unlikely.",
+      "narrative": "The disciplined answer is to hold this lane flat, improve proof quality, and revisit once leadership can defend either a cut or a scale-up.",
+      "nextMove": "Hold FinTech flat and tighten treasury, KYC, and merchant proof before another board ask.",
+      "companyTags": [
+        "KYC",
+        "Merchant risk",
+        "Payments",
+        "Treasury"
+      ],
+      "relatedSurfaces": [
+        "merchant.kineticgain.com",
+        "payments.kineticgain.com",
+        "treasury.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Investor Diligence Pack",
+        "KYC Refresh Case Router",
+        "Merchant Risk Review Console",
+        "Treasury Liquidity Signal Lab"
+      ]
+    },
+    {
+      "id": "biotech-protect-quality-stack",
+      "owner": "Quality systems sponsor",
+      "audience": "Regulated growth committee",
+      "track": "BIOTECH_DIAGNOSTICS",
+      "action": "PROTECT",
+      "spendCategory": "Regulated quality and safety stack",
+      "takeoutTheme": "Protect the regulated operating layer",
+      "boardQuestion": "Which regulated lane already reads as one operating system and should be protected from takeout pressure?",
+      "currentPosture": "GxP, CAPA, specimen, safety, and narrative review now behave like one coherent regulated stack.",
+      "recommendedMove": "Protect the quality and safety stack and push any savings request to peripheral publishing or packaging work only.",
+      "savingsRealizationScore": 19,
+      "executionComplexityScore": 67,
+      "continuityRiskScore": 95,
+      "ownerClarityScore": 88,
+      "boardDefensibilityScore": 95,
+      "urgencyScore": 65,
+      "annualSavingsMillions": 1.9,
+      "headline": "Biotech should be protected because the regulated layer already reads as one mature operating system.",
+      "narrative": "The board should not harvest short-term savings from the one regulated lane that already behaves like a defensible operating layer.",
+      "nextMove": "Protect the biotech control layer and allow only narrow periphery savings moves.",
+      "companyTags": [
+        "CAPA",
+        "GxP",
+        "Safety",
+        "Specimen"
+      ],
+      "relatedSurfaces": [
+        "capa.kineticgain.com",
+        "gxp.kineticgain.com",
+        "safety.kineticgain.com",
+        "specimen.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "Batch Deviation CAPA Ledger",
+        "GxP Change Control Board",
+        "Pharmacovigilance Signal Router",
+        "Specimen Chain of Custody Console"
+      ]
+    },
+    {
+      "id": "ai-consolidate-satellite-work",
+      "owner": "AI operating partner",
+      "audience": "Board strategy committee",
+      "track": "AI_PLATFORM",
+      "action": "CONSOLIDATE",
+      "spendCategory": "AI satellite experiments and wrappers",
+      "takeoutTheme": "Protect flagship, collapse satellites",
+      "boardQuestion": "Where can AI spend be consolidated without starving the flagship governance lane the board already trusts?",
+      "currentPosture": "The AI flagship is strong, but adjacent experiments and wrappers still pull spend away from the governed core.",
+      "recommendedMove": "Consolidate AI satellites into the flagship governance lane and retire overlapping wrappers.",
+      "savingsRealizationScore": 72,
+      "executionComplexityScore": 53,
+      "continuityRiskScore": 39,
+      "ownerClarityScore": 83,
+      "boardDefensibilityScore": 91,
+      "urgencyScore": 71,
+      "annualSavingsMillions": 4.1,
+      "headline": "AI can realize savings by collapsing satellites while protecting the governed flagship.",
+      "narrative": "The board story stays strong if AI takeout comes from overlapping wrappers and satellites instead of the flagship governance and memo core.",
+      "nextMove": "Consolidate AI satellites into the flagship lane and retire duplicate wrappers around it.",
+      "companyTags": [
+        "Azure",
+        "IBM",
+        "MCP",
+        "OpenAI"
+      ],
+      "relatedSurfaces": [
+        "memo.kineticgain.com",
+        "scorecard.kineticgain.com",
+        "watsonx.kineticgain.com"
+      ],
+      "requiredEvidence": [
+        "AI Governance & Agent Readiness Scorecard",
+        "Executive Board Brief",
+        "Procurement Ready OS"
+      ]
+    }
+  ]
+}
