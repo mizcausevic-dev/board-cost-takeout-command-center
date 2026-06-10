@@ -33,6 +33,30 @@ async function main() {
     if (!response.headers.get("content-type")?.includes("text/html")) {
       throw new Error(`Expected HTML content for ${route}`);
     }
+    const html = await response.text();
+    if (!html.includes("Board Cost Takeout")) {
+      throw new Error(`Expected product title marker in ${route}`);
+    }
+    if (!html.includes("Kinetic Gain")) {
+      throw new Error(`Expected Kinetic Gain marker in ${route}`);
+    }
+    if (!html.includes("GitHub")) {
+      throw new Error(`Expected GitHub footer marker in ${route}`);
+    }
+    if (!html.includes("portfolio.kineticgain.com")) {
+      throw new Error(`Expected portfolio footer marker in ${route}`);
+    }
+  }
+
+  for (const route of ["/", "/docs"]) {
+    const response = await requestRoute(base, route);
+    const html = await response.text();
+    if (!html.includes("Product depth")) {
+      throw new Error(`Expected product-depth marker in ${route}`);
+    }
+    if (!html.includes("What these repos have in common")) {
+      throw new Error(`Expected shared-pattern marker in ${route}`);
+    }
   }
 
   for (const route of jsonRoutes) {

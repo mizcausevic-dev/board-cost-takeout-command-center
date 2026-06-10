@@ -141,7 +141,8 @@ function shell(title: string, path: string, body: string, description: string) {
       <div class="footer">
         <span>${productTitle}</span>
         <a href="${domain}">${domain.replace("https://", "")}</a>
-        <a href="https://github.com/mizcausevic-dev/">GitHub</a>
+        <a href="https://github.com/mizcausevic-dev/board-cost-takeout-command-center">GitHub</a>
+        <a href="https://portfolio.kineticgain.com/">Portfolio</a>
         <a href="https://www.linkedin.com/in/mirzacausevic/">LinkedIn</a>
         <a href="https://kineticgain.com/">Kinetic Gain</a>
       </div>
@@ -168,7 +169,7 @@ function navLinks(path: string) {
 
 function productDepthSection() {
   return `<section class="section story">
-      <span class="eyebrow">What this product does</span>
+      <span class="eyebrow">Product depth</span>
       <h2>Cost-takeout intelligence for leaders who need savings without breaking continuity, trust, or revenue capacity.</h2>
       <p class="lede">This surface turns cost pressure into a board-readable packet: what can be cut, what should be consolidated, what must be protected, who owns savings realization, and where execution blockers make a crude cut unsafe.</p>
       <div class="depth-grid">
@@ -189,7 +190,7 @@ function productDepthSection() {
         </article>
         <article class="depth-card">
           <div class="chip">Shared pattern</div>
-          <h3>What these repos have in common.</h3>
+          <h3>What these repos have in common</h3>
           <p>Each Kinetic Gain surface turns complexity into owner, risk, evidence, decision, and next action instead of another generic dashboard.</p>
         </article>
       </div>
